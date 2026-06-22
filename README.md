@@ -108,14 +108,9 @@ Because this project depends on live remote data, route/departure availability a
 
 ## Screenshots
 
-No screenshots are included in the repository yet.
+### Wiring Diagram
+<img width="825" height="527" alt="image" src="https://github.com/user-attachments/assets/bcb0b26d-b3ca-4494-9405-6472c895236f" />
 
-Recommended additions for the GitHub page:
-
-- a photo of the assembled hardware,
-- the left departure screen during live operation,
-- the right route screen after selecting a line,
-- the Wi-Fi onboarding screen.
 
 ## Development Notes
 
@@ -138,5 +133,3 @@ zbiorkom.live or its authors.
 
 To be respectful of the free hosting used by the API, this device limits requests
 and avoids unnecessary polling.
-
-## Demo Ideas
