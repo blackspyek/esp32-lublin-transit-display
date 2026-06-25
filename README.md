@@ -76,6 +76,7 @@ The audio subsystem runs on its own FreeRTOS task. When a departure is within th
 - [`stops_data.h`](stops_data.h) embeds the stop id catalog used to build the picker.
 - [`partitions.csv`](partitions.csv) reserves a large filesystem partition for audio files.
 - [`data/`](data/) stores MP3 assets uploaded to LittleFS.
+- [`3D_model/`](3D_model/) contains the Fusion source file, STL export, and print-ready 3MF project for the enclosure, designed for printing without an AMS system.
 
 ## Filesystem and Audio Assets
 
@@ -111,6 +112,16 @@ Because this project depends on live remote data, route/departure availability a
 ### Wiring Diagram
 <img width="825" height="527" alt="image" src="https://github.com/user-attachments/assets/bcb0b26d-b3ca-4494-9405-6472c895236f" />
 
+## Project Photos
+
+### Front view
+<img width="825" alt="20260625_125911" src="https://github.com/user-attachments/assets/e8d4e275-17cd-48e7-b757-e07b78e73b16" />
+
+### Back view
+<img width="825" alt="20260625_125626" src="https://github.com/user-attachments/assets/c4bae70b-529a-4ca6-a231-7b3302fb91e9" />
+
+### Side view
+<img width="825" alt="20260625_125553" src="https://github.com/user-attachments/assets/959d4ff4-c813-4b41-a93d-d436f06a5e22" />
 
 ## Development Notes
 
